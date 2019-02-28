@@ -1,9 +1,8 @@
-Clear Cookies
----------------
+# Clear Cookies
 
 Clear the cookies for a domain and all subdomains.
 
-How to use:
+## How to use:
 
 1) Create a new bookmark on your web browser's bookmark bar. For example, in Chrome, right-click the bookmark bar and choose "Add Page...". 
 
